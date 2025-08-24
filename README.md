@@ -79,10 +79,3 @@
 </p>
 
 ---
-
-### How to customize
-- **GitHub username:** replace all `wiqilee` with your username if different.
-- **X/Twitter:** replace `https://x.com/wiqi_Lee` with your handle.
-- **CodePen & Netlify:** change `wiqilee` and `wiqilee` to your accounts.
-- **Currency:** in the PayPal link, change `currency_code=USD` to your preferred currency (e.g., `IDR`).
-- **Privacy:** using the PayPal email link exposes your email in the URL. For more privacy, use a PayPal.me link or a Hosted Donate Button from your PayPal dashboard.
