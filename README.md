@@ -1,4 +1,4 @@
-<!-- ===== Support Section (Ko‑fi + PayPal) ===== -->
+<!-- ===== Support Section (Ko-fi + PayPal) ===== -->
 ## Support
 
 <p align="center">
@@ -29,9 +29,19 @@
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
   &nbsp;
-  <!-- Netlify (replace with your site or team URL) -->
+  <!-- Netlify -->
   <a href="https://app.netlify.com/teams/wiqilee/overview">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  </a>
+  &nbsp;
+  <!-- Discord DM (uses user ID URL; replace 'wiqi_lee' with your numeric User ID if needed) -->
+  <a href="https://discord.com/users/wiqi_lee">
+    <img src="https://img.shields.io/badge/Discord-DM%20%40wiqi__lee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord DM @wiqi_lee" />
+  </a>
+  &nbsp;
+  <!-- Discord Server (VaultVerse) -->
+  <a href="https://discord.gg/vaultverse">
+    <img src="https://img.shields.io/badge/Discord-Join%20server%20%28VaultVerse%29-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord server: VaultVerse" />
   </a>
 </p>
 
@@ -54,12 +64,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/wiqilee/github-readme-stats">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="160" src="https://github-readme-stats.vercel.app/api?username=wiqilee&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/wiqilee/github-readme-stats">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiqilee&layout=compact&theme=tokyonight" alt="Top Languages" />
       </a>
     </td>
@@ -68,7 +78,7 @@
 
 <!-- Streak stats -->
 <p>
-  <a href="https://github.com/wiqilee/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=wiqilee&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
