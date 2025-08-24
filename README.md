@@ -2,13 +2,13 @@
 ## Support
 
 <p align="center">
-  <!-- Ko‑fi (big button) -->
+  <!-- Ko-fi -->
   <a href="https://ko-fi.com/vaultverse">
-    <img src="https://img.shields.io/badge/Support%20on%20Ko%E2%80%91fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko‑fi" />
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- PayPal (big button) -->
-  <a href="https://www.paypal.com/donate?business=heytugas%40gmail.com&currency_code=USD">
+  <!-- PayPal.me (recommended) -->
+  <a href="https://paypal.me/heytugas">
     <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
 </p>
