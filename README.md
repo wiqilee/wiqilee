@@ -3,11 +3,6 @@
   <img src="./assets/banner-wiqi-lee.jpg" alt="Banner Wiqi Lee" />
 </p>
 
-<!-- Glitter Text -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=✨%20Wiqi%20Lee%20✨&width=800&height=120" alt="Glitter Wiqi Lee" />
-</p>
-
 <!-- Typing effect -->
 <p align="center">
   <img
@@ -16,6 +11,10 @@
   />
 </p>
 
+<!-- Glitter Text -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=✨%20Wiqi%20Lee%20✨&width=800&height=120" alt="Glitter Wiqi Lee" />
+</p>
 ## 🚀 About Me
 I’m **Wiqi Lee**, a passionate developer and builder who loves creating impactful solutions and contributing to the open-source community.  
 🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
