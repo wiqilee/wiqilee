@@ -74,6 +74,16 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDB1E?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 
+### MLOps & Vector Databases
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00A37F?style=flat&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-6A4C93?style=flat&logo=weaviate&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-0073FF?style=flat&logo=milvus&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-EC407A?style=flat&logoColor=white)
+
 ---
 
 ## 📖 Research & Writing
