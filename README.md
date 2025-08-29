@@ -95,8 +95,15 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 
 ## 📖 Research & Writing
 - Passionate about **scientific research** and **academic writing**.  
-- Open to collaborations on **writing, data analysis, and publishing**.  
-- Skilled with **SPSS** and familiar with **quantitative & qualitative research methods**.
+- Open to collaborations on **writing, paraphrasing, data analysis, and journal submission support**.  
+- Skilled with **SPSS**, **quantitative & qualitative research methods**, and familiar with **AI-assisted research workflows**.  
+
+### Research Tools  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)  
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)  
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)  
+![Mendeley](https://img.shields.io/badge/Mendeley-9D1620?style=flat&logo=mendeley&logoColor=white)  
+![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
 ---
 
