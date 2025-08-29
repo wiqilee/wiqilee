@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://i.gifer.com/origin/91/91cb4bff7b4a7d7e9077f63f93ab9a47.gif" width="400"/>
-</p>
-
 <!-- Banner -->
 <p align="center">
   <img src="./assets/banner-wiqi-lee.jpg" alt="Banner Wiqi Lee" />
+  <img src="https://i.gifer.com/origin/91/91cb4bff7b4a7d7e9077f63f93ab9a47.gif" width="400"/>
 </p>
 
 <!-- Typing effect -->
