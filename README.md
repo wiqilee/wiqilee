@@ -14,7 +14,7 @@
 ## 🚀 About Me
 I’m **Wiqi Lee**, a passionate developer and builder who loves creating impactful solutions and contributing to the open-source community.  
 🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
-📚 Beyond coding, I enjoy diving into **scientific research journals**, and I’m open to **collaborations in academic writing and publishing**.
+📚 Beyond coding, I enjoy diving into **scientific research journals**, and I’m open to **collaborations in academic writing, publishing, and journal paraphrasing**.
 
 ---
 
