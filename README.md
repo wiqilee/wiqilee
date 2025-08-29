@@ -6,7 +6,7 @@
 <!-- Typing effect -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;I'm+Wiqi+Lee;Developer+%7C+Research+Enthusiast;Open+to+Academic+Collaboration+%F0%9F%A4%9D;Learning+by+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Wiqi+Lee;Developer+%7C+Research+Enthusiast;Open+to+Academic+Collaboration+%F0%9F%A4%9D;Learning+by+Building&t=1"
     alt="Typing SVG"
   />
 </p>
@@ -146,6 +146,6 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ---
 
 ## 🏆 Trophies & Activity
-[![trophy](https://github-profile-trophy.vercel.app/?username=wiqilee&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wiqilee&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&cache=0)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Wiqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wiqilee&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Wiqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wiqilee&theme=tokyo-night&area=true&hide_border=true&cache=0)](https://github.com/ashutosh00710/github-readme-activity-graph)
