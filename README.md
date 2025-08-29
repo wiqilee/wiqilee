@@ -146,6 +146,12 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ---
 
 ## 🏆 Trophies & Activity
-[![trophy](https://github-profile-trophy.vercel.app/?username=wiqilee&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&cache=0)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Wiqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wiqilee&theme=tokyo-night&area=true&hide_border=true&cache=0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Trophies -->
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=wiqilee&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&margin-w=10&margin-h=10&t=<?=Date.now()?>"
+    alt="GitHub Profile Trophies"
+  />
+</p>
+
