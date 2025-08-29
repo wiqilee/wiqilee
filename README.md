@@ -19,7 +19,6 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=✨%20Wiqi%20Lee%20✨&width=800&height=120" alt="Glitter Wiqi Lee" />
 </p>
----
 
 ## 🛠️ Skills
 
