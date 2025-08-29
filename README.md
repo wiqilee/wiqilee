@@ -3,6 +3,19 @@
   <img src="./assets/banner-wiqi-lee.jpg" alt="Banner Wiqi Lee" />
 </p>
 
+<!-- Glitter Text -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=✨%20Wiqi%20Lee%20✨&width=800&height=120" alt="Glitter Wiqi Lee" />
+</p>
+
+<!-- Typing effect -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Wiqi+Lee;Developer+%7C+Research+Enthusiast;Open+to+Academic+Collaboration+%F0%9F%A4%9D;Learning+by+Building&t=1"
+    alt="Typing SVG"
+  />
+</p>
+
 <!-- Typing effect -->
 <p align="center">
   <img
