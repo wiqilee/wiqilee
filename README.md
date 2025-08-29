@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiqilee/wiqilee/main/assets/banner-wiqi-lee.jpg" alt="Banner Wiqi Lee" />
+  <img src="./assets/banner-wiqi-lee.jpg" alt="Banner Wiqi Lee" />
 </p>
 
 <!-- Typing effect -->
