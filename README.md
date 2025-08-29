@@ -149,10 +149,7 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 
 <!-- Trophies -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=wiqilee&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&margin-w=10&margin-h=10&t=2"
-    alt="GitHub Profile Trophies"
-  />
+  <img src="https://github.com/wiqilee/wiqilee/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
 <!-- Activity Graph -->
