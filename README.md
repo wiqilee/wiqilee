@@ -12,9 +12,9 @@
 </p>
 
 ## 🚀 About Me
-I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and contributing to open-source.  
-🌱 Currently exploring **Next.js**, **AI workflows**, and **cloud-native tooling**.  
-📚 Outside of tech, I enjoy reading scientific research journals, and I’m open to collaborations on writing and publishing academic papers.
+I’m **Wiqi Lee**, a passionate developer and builder who loves creating impactful solutions and contributing to the open-source community.  
+🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
+📚 Beyond coding, I enjoy diving into **scientific research journals**, and I’m open to **collaborations in academic writing and publishing**.
 
 ---
 
@@ -83,6 +83,13 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ![Weaviate](https://img.shields.io/badge/Weaviate-6A4C93?style=flat&logo=weaviate&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-0073FF?style=flat&logo=milvus&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-EC407A?style=flat&logoColor=white)
+
+### Data Engineering & Big Data
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 
 ---
 
