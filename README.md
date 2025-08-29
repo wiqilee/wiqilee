@@ -1,4 +1,15 @@
-# Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiqilee/wiqilee/main/assets/Banner%20Wiqi%20Lee%20(2).jpg" alt="Banner Wiqi Lee" />
+</p>
+
+<!-- Typing effect -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B;I'm+Wiqi+Lee;Developer+%7C+Research+Enthusiast;Open+to+Academic+Collaboration+%F0%9F%A4%9D;Learning+by+Building"
+    alt="Typing SVG"
+  />
+</p>
 
 ## 🚀 About Me
 I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and contributing to open-source.  
@@ -63,7 +74,6 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ---
 
 ## ☕ Support
-
 <p align="center">
   <a href="https://ko-fi.com/vaultverse">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi" />
@@ -77,7 +87,6 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ---
 
 ## 🔗 Connect with me
-
 <p align="left">
   <a href="https://x.com/wiqi_Lee">
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
@@ -113,7 +122,6 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ---
 
 ## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
