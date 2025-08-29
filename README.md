@@ -16,14 +16,6 @@
   />
 </p>
 
-<!-- Typing effect -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Wiqi+Lee;Developer+%7C+Research+Enthusiast;Open+to+Academic+Collaboration+%F0%9F%A4%9D;Learning+by+Building&t=1"
-    alt="Typing SVG"
-  />
-</p>
-
 ## 🚀 About Me
 I’m **Wiqi Lee**, a passionate developer and builder who loves creating impactful solutions and contributing to the open-source community.  
 🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
