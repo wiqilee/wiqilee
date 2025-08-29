@@ -64,6 +64,16 @@ I’m **Wiqi Lee**, a developer and builder who loves shipping useful things and
 ![Nomad](https://img.shields.io/badge/Nomad-00C7B7?style=flat&logo=hashicorp&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
+### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDB1E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+
 ---
 
 ## 📖 Research & Writing
