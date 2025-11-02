@@ -15,7 +15,7 @@
 ## 🚀 About Me
 I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating impactful, real-world solutions and contributing to the open-source ecosystem.  
 🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
-🧠 Deeply interested in **Large Language Models (LLMs)**, **agentic AI**, and emerging frameworks such as **LangChain** and **Ollama**.  
+🧠 Deeply interested in **Large Language Models (LLMs)**, **agentic AI**, and emerging frameworks such as **LangChain**, **Ollama**, and **LangGraph**.  
 📚 Beyond code, I enjoy reading **scientific journals** and collaborating on **academic research, publishing, and paraphrasing projects**.
 
 <p align="center">
@@ -33,7 +33,9 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 ### Front-End Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -51,15 +53,16 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ### Back-End Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-
 ### Mobile App Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### DevOps & Cloud Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -72,6 +75,8 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-CA2171?style=flat&logo=consul&logoColor=white)
 ![Nomad](https://img.shields.io/badge/Nomad-00C7B7?style=flat&logo=hashicorp&logoColor=white)
+![KServe](https://img.shields.io/badge/KServe-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat&logo=ray&logoColor=white)
 
 ### AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -83,6 +88,9 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDB1E?style=flat&logo=huggingface&logoColor=black)
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-121212?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B9CD3?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
 ### MLOps & Vector Databases
@@ -94,6 +102,11 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![Weaviate](https://img.shields.io/badge/Weaviate-6A4C93?style=flat&logo=weaviate&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-0073FF?style=flat&logo=milvus&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-EC407A?style=flat&logoColor=white)
+
+### Modern Data Stack
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-6D28D9?style=flat&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logoColor=black)
 
 ### Data Engineering & Big Data
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
