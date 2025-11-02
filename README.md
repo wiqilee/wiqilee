@@ -80,6 +80,7 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDB1E?style=flat&logo=huggingface&logoColor=black)
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-121212?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
 ### MLOps & Vector Databases
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
