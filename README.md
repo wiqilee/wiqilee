@@ -91,6 +91,13 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![Milvus](https://img.shields.io/badge/Milvus-0073FF?style=flat&logo=milvus&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-EC407A?style=flat&logoColor=white)
 
+### Data Engineering & Big Data
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+
 ---
 
 ## 📖 Research & Writing
@@ -113,88 +120,3 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
 ---
-
-## ☕ Support
-<p align="center">
-  <a href="https://ko-fi.com/vaultverse">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://paypal.me/heytugas">
-    <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
-  </a>
-</p>
-
----
-
-## 🔗 Connect with Me
-<p align="left">
-  <a href="https://x.com/wiqi_Lee">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
-  </a>
-  &nbsp;
-  <a href="https://codepen.io/wiqilee">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  &nbsp;
-  <a href="https://app.netlify.com/teams/wiqilee/overview">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/wiqi_lee">
-    <img src="https://img.shields.io/badge/Discord-DM%20%40wiqi__lee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord DM @wiqi_lee" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/vaultverse">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server%20(VaultVerse)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord server: VaultVerse" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/wiqilee?tab=followers">
-    <img src="https://img.shields.io/github/followers/wiqilee?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/wiqilee">
-    <img src="https://img.shields.io/badge/Follow-@wiqilee-181717?logo=github&labelColor=555555" alt="Follow @wiqilee" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=wiqilee&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiqilee&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=wiqilee&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=wiqilee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 🏆 Trophies & Activity
-
-<p align="center">
-  <img src="https://github.com/wiqilee/wiqilee/blob/main/github-metrics.svg" alt="Metrics" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=wiqilee&theme=tokyo-night&area=true&hide_border=true&t=2"
-    alt="Wiqi's GitHub Activity Graph"
-  />
-</p>
