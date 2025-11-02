@@ -13,16 +13,18 @@
 
 <!-- Glitter Text -->
 ## 🚀 About Me
-I’m **Wiqi Lee**, a passionate developer and builder who loves creating impactful solutions and contributing to the open-source community.  
+I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating impactful, real-world solutions and contributing to the open-source ecosystem.  
 🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
-📚 Beyond coding, I enjoy diving into **scientific research journals**, and I’m open to **collaborations in academic writing, publishing, and journal paraphrasing**.
+🧠 Deeply interested in **Large Language Models (LLMs)**, **agentic AI**, and emerging frameworks such as **LangChain** and **Ollama**.  
+📚 Beyond code, I enjoy reading **scientific journals** and collaborating on **academic research, publishing, and paraphrasing projects**.
+
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=✨%20Wiqi%20Lee%20✨&width=800&height=120" alt="Glitter Wiqi Lee" />
 </p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,6 +33,7 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ### Front-End Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -55,7 +58,7 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 ### Mobile App Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Technologies
+### DevOps & Cloud Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
@@ -66,7 +69,6 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 ![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-CA2171?style=flat&logo=consul&logoColor=white)
 ![Nomad](https://img.shields.io/badge/Nomad-00C7B7?style=flat&logo=hashicorp&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
 ### AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -76,6 +78,7 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDB1E?style=flat&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-121212?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 
 ### MLOps & Vector Databases
@@ -88,19 +91,19 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 ![Milvus](https://img.shields.io/badge/Milvus-0073FF?style=flat&logo=milvus&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-EC407A?style=flat&logoColor=white)
 
-### Data Engineering & Big Data
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
-
 ---
 
 ## 📖 Research & Writing
-- Passionate about **scientific research** and **academic writing**.  
-- Open to collaborations on **writing, paraphrasing, data analysis, and journal submission support**.  
-- Skilled with **SPSS**, **quantitative & qualitative research methods**, and familiar with **AI-assisted research workflows** using tools like **Hugging Face**, **LangChain**, and **Jupyter**.  
+- Passionate about **scientific research**, **academic writing**, and **journal publication workflows**.  
+- Experienced with **Scopus-indexed journals (Q1–Q3)** and open to collaboration on **writing, paraphrasing, data analysis, and submission support**.  
+- Skilled in **SPSS**, **quantitative & qualitative research methods**, and well-versed in **AI-assisted research workflows** using **Hugging Face**, **LangChain**, and **LLMs**.
+
+### Journal Indexing & Impact
+![Scopus Q1](https://img.shields.io/badge/Scopus_Q1-1E90FF?style=flat&logo=scopus&logoColor=white)
+![Scopus Q2](https://img.shields.io/badge/Scopus_Q2-4682B4?style=flat&logo=scopus&logoColor=white)
+![Scopus Q3](https://img.shields.io/badge/Scopus_Q3-708090?style=flat&logo=scopus&logoColor=white)
+![DOAJ](https://img.shields.io/badge/DOAJ-FF6600?style=flat&logo=openaccess&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)
 
 ### Research Tools
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)  
@@ -124,7 +127,7 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 <p align="left">
   <a href="https://x.com/wiqi_Lee">
     <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
@@ -143,7 +146,7 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
   </a>
   &nbsp;
   <a href="https://discord.gg/vaultverse">
-    <img src="https://img.shields.io/badge/Discord-Join%20server%20%28VaultVerse%29-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord server: VaultVerse" />
+    <img src="https://img.shields.io/badge/Discord-Join%20Server%20(VaultVerse)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord server: VaultVerse" />
   </a>
 </p>
 
@@ -185,12 +188,10 @@ I’m **Wiqi Lee**, a passionate developer and builder who loves creating impact
 
 ## 🏆 Trophies & Activity
 
-<!-- Trophies -->
 <p align="center">
   <img src="https://github.com/wiqilee/wiqilee/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=wiqilee&theme=tokyo-night&area=true&hide_border=true&t=2"
