@@ -169,8 +169,8 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
     <img src="https://img.shields.io/badge/Discord-DM%20%40wiqi__lee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord DM @wiqi_lee" />
   </a>
   &nbsp;
-  <a href="https://discord.gg/vaultverse">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server%20(VaultVerse)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord server: VaultVerse" />
+  <a href="https://discord.com/invite/Hm4YNEwUHq">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server%20(NeuralForge)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord server: NeuralForge" />
   </a>
 </p>
 
