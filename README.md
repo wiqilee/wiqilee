@@ -187,21 +187,9 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ---
 
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=wiqilee&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiqilee&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <p>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=wiqilee&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=wiqilee&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p>
@@ -210,14 +198,20 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 
 ---
 
-## 🏆 Trophies & Activity
-<p align="center">
-  <img src="https://github.com/wiqilee/wiqilee/blob/main/github-metrics.svg" alt="Metrics" />
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=wiqilee&theme=tokyo-night&area=true&hide_border=true&t=2"
-    alt="Wiqi's GitHub Activity Graph"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-dark.svg" alt="Contribution snake" width="100%" />
+  </picture>
+</p>
+
+---
+
+## 🏆 Trophies & Activity
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
 </p>
