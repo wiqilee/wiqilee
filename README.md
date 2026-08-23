@@ -188,17 +188,9 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=wiqilee&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=wiqilee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -206,6 +198,10 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-light.svg" />
     <img src="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-dark.svg" alt="Contribution snake" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wiqilee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
