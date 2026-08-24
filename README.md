@@ -286,10 +286,12 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 Found something useful here? **Your support is always appreciated.**
 
 <p align="center">
-  <a href="https://ko-fi.com/vaultverse">
-    <img src="https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" />
+  <a href="https://paypal.me/heytugas">
+    <img src="./assets/support-strip.svg" alt="Support: a coffee is always welcome" width="430" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://paypal.me/heytugas">
     <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
   </a>
