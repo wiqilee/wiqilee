@@ -16,6 +16,74 @@ I'm **Wiqi Lee**, a **software engineer, researcher, and data scientist** workin
 
 I build **agentic AI and LLM tooling** for real-world use, while supporting researchers with academic writing, publication workflows, and technical research projects. I'm always open to **meaningful collaboration** across both.
 
+## 🏅 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/wiqilee/Vettra"><img src="./assets/card-vettra.svg" alt="Vettra" width="100%" /></a>
+      <p align="center">
+        <a href="https://vettra-eight.vercel.app/">Demo</a> ·
+        <a href="https://youtu.be/cPZGOHpbWiY">Video</a> ·
+        <a href="https://medium.com/@wiqi_lee/vettra-what-happens-when-you-actually-try-to-control-an-ai-agent-5dea9357634c">Article</a> ·
+        <a href="https://devpost.com/software/vettra">Devpost</a>
+      </p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/wiqilee/ARIA"><img src="./assets/card-aria.svg" alt="ARIA" width="100%" /></a>
+      <p align="center">
+        <a href="https://aria-polypharmacy.vercel.app">Demo</a> ·
+        <a href="https://youtu.be/VTnlH0GXBGk">Video</a> ·
+        <a href="https://medium.com/@wiqi_lee/eighteen-warnings-in-fourteen-seconds-why-i-created-aria-ffb06d1a3a13">Article</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/wiqilee/Arrearly"><img src="./assets/card-arrearly.svg" alt="Arrearly" width="100%" /></a>
+      <p align="center">
+        <a href="https://arrearly.vercel.app">Demo</a></p>
+        <a href="https://youtu.be/AaZi0jxdQ1w">Video</a> ·
+        <a href="https://medium.com/@wiqi_lee/arrearly-the-ai-agent-that-doesnt-just-send-reminders-it-decides-d187b9f63c87?sharedUserId=wiqi_lee">Article</a>
+      </p>
+    </td>
+    <td>
+      <a href="https://github.com/wiqilee/VoxGuard"><img src="./assets/card-voxguard.svg" alt="VoxGuard" width="100%" /></a>
+      <p align="center">
+        <a href="voxguard-kappa.vercel.app/">Demo</a> ·
+        <a href="https://www.youtube.com/watch?v=ptFNTPv9RUM">Video</a> ·
+        <a href="https://medium.com/@wiqi_lee/i-built-voxguard-an-ai-agent-that-detects-and-disrupts-scams-in-real-time-71cb80294498?sharedUserId=wiqi_lee">Article</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/wiqilee/reflex"><img src="./assets/card-reflex.svg" alt="Reflex" width="100%" /></a>
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=uAaxhKVW5-Q">Video</a> ·
+      </p>
+    </td>
+    <td>
+      <a href="https://github.com/wiqilee/assumption-miner"><img src="./assets/card-assumption-miner.svg" alt="Assumption Miner" width="100%" /></a>
+      <p align="center">
+        <a href="https://assumption-miner.vercel.app/">Demo</a> ·
+        <a href="https://www.youtube.com/watch?v=2nBZo7fWuIs">Video</a> ·
+        <a href="https://medium.com/@wiqi_lee/assumption-miner-the-tool-that-finds-what-linters-tests-and-code-reviews-miss-348cbbe4d714?sharedUserId=wiqi_lee">Article</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/wiqilee/grounds"><img src="./assets/card-grounds.svg" alt="Grounds" width="100%" /></a>
+      <p align="center">
+        <a href="https://grounds-chi.vercel.app/">Demo</a> ·
+        <a href="https://www.youtube.com/watch?v=auDm0d9Ea2o">Video</a> ·
+      </p>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 <!-- Animated terminal -->
 <p align="center">
   <img src="./assets/terminal-strip-wiqi.svg" alt="wiqilee@github" width="560" />
@@ -203,6 +271,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 ---
 
 ## ☕ Support
+Found something useful here? **Your support is always appreciated.**
 
 <p align="center">
   <a href="https://ko-fi.com/vaultverse">
