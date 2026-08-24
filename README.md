@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/ascii-portrait-anim.svg" alt="Wiqi Lee" width="420" />
+  <img src="./assets/ascii-portrait-anime.svg" alt="Wiqi Lee" width="420" />
 </p>
 
 <!-- Typing effect -->
