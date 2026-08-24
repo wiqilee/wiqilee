@@ -201,7 +201,11 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wiqilee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/robot-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/robot-light.svg" />
+    <img src="./assets/robot-dark.svg" alt="Contribution robot" width="100%" />
+  </picture>
 </p>
 
 ---
