@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- ASCII portrait -->
 <p align="center">
   <img src="./assets/ascii-portrait-anime-wiqi2.svg" alt="Wiqi Lee" width="420" />
 </p>
@@ -11,13 +11,13 @@
   />
 </p>
 
-<!-- Glitter Text -->
 ## 🚀 About Me
 I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating impactful, real-world solutions and contributing to the open-source ecosystem.  
 🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
 🧠 Deeply interested in **Large Language Models (LLMs)**, **agentic AI**, and emerging frameworks such as **LangChain**, **Ollama**, and **LangGraph**.  
 📚 Beyond code, I enjoy reading **scientific journals** and collaborating on **academic research, publishing, and paraphrasing projects**.
 
+<!-- Animated terminal -->
 <p align="center">
   <img src="./assets/terminal-strip.svg" alt="wiqilee@github" width="560" />
 </p>
@@ -91,13 +91,10 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B9CD3?style=flat&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
 ### MLOps & Vector Databases
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00A37F?style=flat&logo=pinecone&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-6A4C93?style=flat&logo=weaviate&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-0073FF?style=flat&logo=milvus&logoColor=white)
@@ -130,58 +127,50 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)
 
 ### Research Tools
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)  
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)  
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)  
-![Mendeley](https://img.shields.io/badge/Mendeley-9C1C1C?style=flat&logo=mendeley&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat&logo=zotero&logoColor=white)
+![Mendeley](https://img.shields.io/badge/Mendeley-9C1C1C?style=flat&logo=mendeley&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-003B57?style=flat&logo=ibm&logoColor=white)
 
 ---
 
-## ☕ Support
+## 🔗 Connect with Me
+
 <p align="center">
-  <a href="https://ko-fi.com/vaultverse">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi" />
+  <a href="https://www.freelancer.com/u/wiqilee">
+    <img src="https://img.shields.io/badge/Hire%20me%20on%20Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Hire me on Freelancer" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://paypal.me/heytugas">
-    <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
+  &nbsp;
+  <a href="mailto:wiqilee@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email wiqilee@icloud.com" />
   </a>
 </p>
 
----
-
-## 🔗 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://x.com/wiqi_Lee">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
+    <img src="https://img.shields.io/badge/@wiqi__lee-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @wiqi_lee on X" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/wiqidev">
+    <img src="https://img.shields.io/badge/@wiqidev-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @wiqidev on X" />
   </a>
   &nbsp;
   <a href="https://codepen.io/wiqilee">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
   &nbsp;
-  <a href="https://app.netlify.com/teams/wiqilee/overview">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/wiqi_lee">
-    <img src="https://img.shields.io/badge/Discord-DM%20%40wiqi__lee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord DM @wiqi_lee" />
-  </a>
-  &nbsp;
   <a href="https://discord.com/invite/Hm4YNEwUHq">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server%20(NeuralForge)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord server: NeuralForge" />
+    <img src="https://img.shields.io/badge/Discord-NeuralForge-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NeuralForge Discord server" />
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/wiqilee?tab=followers">
-    <img src="https://img.shields.io/github/followers/wiqilee?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/wiqilee?label=Followers&style=social" alt="GitHub followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/wiqilee">
-    <img src="https://img.shields.io/badge/Follow-@wiqilee-181717?logo=github&labelColor=555555" alt="Follow @wiqilee" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=wiqilee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -190,14 +179,6 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wiqilee&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/wiqilee/wiqilee/output/snake-dark.svg" alt="Contribution snake" width="100%" />
-  </picture>
 </p>
 
 <p align="center">
@@ -214,4 +195,18 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" />
+</p>
+
+---
+
+## ☕ Support
+
+<p align="center">
+  <a href="https://ko-fi.com/vaultverse">
+    <img src="https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" />
+  </a>
+  &nbsp;
+  <a href="https://paypal.me/heytugas">
+    <img src="https://img.shields.io/badge/Donate%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal" />
+  </a>
 </p>
