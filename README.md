@@ -12,10 +12,9 @@
 </p>
 
 ## 🚀 About Me
-I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating impactful, real-world solutions and contributing to the open-source ecosystem.  
-🌱 Currently exploring **Next.js**, **AI-driven workflows**, and **cloud-native ecosystems**.  
-🧠 Deeply interested in **Large Language Models (LLMs)**, **agentic AI**, and emerging frameworks such as **LangChain**, **Ollama**, and **LangGraph**.  
-📚 Beyond code, I enjoy reading **scientific journals** and collaborating on **academic research, publishing, and paraphrasing projects**.
+I'm **Wiqi Lee**, a **software engineer, researcher, and data scientist** working at the intersection of **AI systems and academic research support** since 2015.
+
+I build **agentic AI and LLM tooling** for real-world use, while supporting researchers with academic writing, publication workflows, and technical research projects. I'm always open to **meaningful collaboration** across both.
 
 <!-- Animated terminal -->
 <p align="center">
