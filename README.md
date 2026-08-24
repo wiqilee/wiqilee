@@ -19,7 +19,7 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 
 <!-- Animated terminal -->
 <p align="center">
-  <img src="./assets/terminal-strip.svg" alt="wiqilee@github" width="560" />
+  <img src="./assets/terminal-strip-wiqi.svg" alt="wiqilee@github" width="560" />
 </p>
 
 ---
@@ -165,7 +165,7 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
   </a>
   &nbsp;
   <a href="https://discord.com/invite/Hm4YNEwUHq">
-    <img src="https://img.shields.io/badge/Discord-NeuralForge-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NeuralForge Discord server" />
+      <img src="https://img.shields.io/badge/Discord-Join%20Server%20(NeuralForge)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NeuralForge Discord server" />
   </a>
 </p>
 
