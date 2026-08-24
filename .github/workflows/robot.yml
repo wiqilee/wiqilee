@@ -1,0 +1,33 @@
+name: generate robot
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render robot
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python .github/scripts/render_robot.py --user ${{ github.repository_owner }} --out assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/robot-dark.svg assets/robot-light.svg
+          git diff --staged --quiet || git commit -m "chore: update robot svg"
+          git push
