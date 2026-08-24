@@ -8,7 +8,7 @@ import argparse, json, os, random, urllib.request
 
 CELL, GAP = 11, 3
 STEP = CELL + GAP
-PAD_X, PAD_TOP, PAD_BOT = 14, 30, 30
+PAD_X, PAD_TOP, PAD_BOT = 14, 46, 34
 CYCLE = 14.0
 SWEEP_END = 82.0
 RESTORE_A, RESTORE_B = 93.0, 97.0
@@ -105,10 +105,28 @@ def render(levels, theme_name):
     H = PAD_TOP + 7 * STEP - GAP + PAD_BOT
     mid_y = PAD_TOP + 3.5 * STEP - GAP / 2
 
+    # ketinggian terbang mengikuti total kontribusi per minggu
+    totals = [sum(col) for col in levels]
+    peak = max(totals) or 1
+    top = PAD_TOP + 4
+    bottom = PAD_TOP + 7 * STEP - GAP - 18
+    ys = [bottom - (t / peak) * (bottom - top) for t in totals]
+
+    stops = []
+    for c, y in enumerate(ys):
+        p = (c / max(n - 1, 1)) * SWEEP_END
+        stops.append('%.2f%%{transform:translateY(%.1fpx)}' % (p, y - mid_y))
+    stops.append('100%%{transform:translateY(%.1fpx)}' % (ys[-1] - mid_y))
+
+    trail = ' '.join(
+        '%.1f,%.1f' % (PAD_X + c * STEP + CELL / 2, y) for c, y in enumerate(ys)
+    )
+
     css = [
         f'@keyframes fly{{0%{{transform:translateX(-38px)}}'
         f'{SWEEP_END}%,100%{{transform:translateX({W + 38}px)}}}}',
-        '@keyframes bob{0%,100%{transform:translateY(-7px)}50%{transform:translateY(7px)}}',
+        '@keyframes path{%s}' % ''.join(stops),
+        '@keyframes bob{0%,100%{transform:translateY(-3px)}50%{transform:translateY(3px)}}',
         '@keyframes flick{0%,100%{opacity:.95;transform:scaleX(1)}'
         '50%{opacity:.55;transform:scaleX(.6)}}',
         '.flame{transform-origin:-7px 7px;animation:flick .16s linear infinite}',
@@ -142,10 +160,13 @@ def render(levels, theme_name):
         f'aria-label="A robot flying across the contribution grid">'
         f'<style>{"".join(css)}</style>'
         f'{"".join(cells)}{"".join(overlays)}'
+        f'<polyline points="{trail}" fill="none" stroke="{t["levels"][2]}" '
+        f'stroke-width="1.5" stroke-opacity="0.5" stroke-linejoin="round"/>'
         f'<g style="animation:fly {CYCLE}s linear infinite">'
+        f'<g style="animation:path {CYCLE}s linear infinite">'
         f'<g style="animation:bob 2.3s ease-in-out infinite">'
         f'<g transform="translate(0,{mid_y:.1f}) rotate(6)">{sprite}</g>'
-        f'</g></g></svg>'
+        f'</g></g></g></svg>'
     )
 
 
