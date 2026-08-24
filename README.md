@@ -160,6 +160,10 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
   &nbsp;
+  <a href="https://discord.com/users/wiqi_lee">
+    <img src="https://img.shields.io/badge/Discord-DM%20%40wiqi__lee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Direct message wiqi_lee on Discord" />
+  </a>
+  &nbsp;
   <a href="https://discord.com/invite/Hm4YNEwUHq">
     <img src="https://img.shields.io/badge/Discord-NeuralForge-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NeuralForge Discord server" />
   </a>
