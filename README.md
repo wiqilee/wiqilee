@@ -12,9 +12,12 @@
 </p>
 
 ## 🚀 About Me
+
 I'm **Wiqi Lee**, a **software engineer, researcher, and data scientist** working at the intersection of **AI systems and academic research support** since 2015.
 
-I build **agentic AI and LLM tooling** for real-world use, while supporting researchers with academic writing, publication workflows, and technical research projects. I'm always open to **meaningful collaboration** across both.
+I build **agentic AI and LLM tooling** for real-world use, while supporting researchers with academic writing, publication workflows, and technical research projects. I'm always open to **meaningful collaboration** on either side.
+
+---
 
 ## 🏅 Featured Projects
 
@@ -42,17 +45,17 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
     <td>
       <a href="https://github.com/wiqilee/Arrearly"><img src="./assets/card-arrearly.svg" alt="Arrearly" width="100%" /></a>
       <p align="center">
-        <a href="https://arrearly.vercel.app">Demo</a></p>
+        <a href="https://arrearly.vercel.app">Demo</a> ·
         <a href="https://youtu.be/AaZi0jxdQ1w">Video</a> ·
-        <a href="https://medium.com/@wiqi_lee/arrearly-the-ai-agent-that-doesnt-just-send-reminders-it-decides-d187b9f63c87?sharedUserId=wiqi_lee">Article</a>
+        <a href="https://medium.com/@wiqi_lee/arrearly-the-ai-agent-that-doesnt-just-send-reminders-it-decides-d187b9f63c87">Article</a>
       </p>
     </td>
     <td>
       <a href="https://github.com/wiqilee/VoxGuard"><img src="./assets/card-voxguard.svg" alt="VoxGuard" width="100%" /></a>
       <p align="center">
-        <a href="voxguard-kappa.vercel.app/">Demo</a> ·
+        <a href="https://voxguard-kappa.vercel.app/">Demo</a> ·
         <a href="https://www.youtube.com/watch?v=ptFNTPv9RUM">Video</a> ·
-        <a href="https://medium.com/@wiqi_lee/i-built-voxguard-an-ai-agent-that-detects-and-disrupts-scams-in-real-time-71cb80294498?sharedUserId=wiqi_lee">Article</a>
+        <a href="https://medium.com/@wiqi_lee/i-built-voxguard-an-ai-agent-that-detects-and-disrupts-scams-in-real-time-71cb80294498">Article</a>
       </p>
     </td>
   </tr>
@@ -60,7 +63,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
     <td>
       <a href="https://github.com/wiqilee/reflex"><img src="./assets/card-reflex.svg" alt="Reflex" width="100%" /></a>
       <p align="center">
-        <a href="https://www.youtube.com/watch?v=uAaxhKVW5-Q">Video</a> ·
+        <a href="https://www.youtube.com/watch?v=uAaxhKVW5-Q">Video</a>
       </p>
     </td>
     <td>
@@ -68,7 +71,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
       <p align="center">
         <a href="https://assumption-miner.vercel.app/">Demo</a> ·
         <a href="https://www.youtube.com/watch?v=2nBZo7fWuIs">Video</a> ·
-        <a href="https://medium.com/@wiqi_lee/assumption-miner-the-tool-that-finds-what-linters-tests-and-code-reviews-miss-348cbbe4d714?sharedUserId=wiqi_lee">Article</a>
+        <a href="https://medium.com/@wiqi_lee/assumption-miner-the-tool-that-finds-what-linters-tests-and-code-reviews-miss-348cbbe4d714">Article</a>
       </p>
     </td>
   </tr>
@@ -77,7 +80,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
       <a href="https://github.com/wiqilee/grounds"><img src="./assets/card-grounds.svg" alt="Grounds" width="100%" /></a>
       <p align="center">
         <a href="https://grounds-chi.vercel.app/">Demo</a> ·
-        <a href="https://www.youtube.com/watch?v=auDm0d9Ea2o">Video</a> ·
+        <a href="https://www.youtube.com/watch?v=auDm0d9Ea2o">Video</a>
       </p>
     </td>
     <td></td>
@@ -86,7 +89,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 
 <!-- Animated terminal -->
 <p align="center">
-  <img src="./assets/terminal-strip-wiqi.svg" alt="wiqilee@github" width="560" />
+  <img src="./assets/terminal-strip-wiqi.svg" alt="Wiqi Lee: stack, services, and contact details" width="589" />
 </p>
 
 ---
@@ -182,9 +185,11 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 ---
 
 ## 📖 Research & Writing
-- Passionate about **scientific research**, **academic writing**, and **journal publication workflows**.  
-- Experienced with **Scopus-indexed journals (Q1–Q3)** and open to collaboration on **writing, paraphrasing, data analysis, and submission support**.  
+
+- Passionate about **scientific research**, **academic writing**, and **journal publication workflows**.
+- Experienced with **Scopus-indexed journals (Q1–Q3)** and open to collaboration on **writing, paraphrasing, data analysis, and submission support**.
 - Skilled in **SPSS**, **quantitative & qualitative research methods**, and well-versed in **AI-assisted research workflows** using **Hugging Face**, **LangChain**, and **LLMs**.
+- I also write about the systems I build on [**Medium**](https://medium.com/@wiqi_lee), including the post that won the Blog Post Prize at the Auth0 hackathon.
 
 ### Journal Indexing & Impact
 ![Scopus Q1](https://img.shields.io/badge/Scopus_Q1-1E90FF?style=flat&logo=scopus&logoColor=white)
@@ -223,16 +228,22 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
     <img src="https://img.shields.io/badge/@wiqidev-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @wiqidev on X" />
   </a>
   &nbsp;
+  <a href="https://medium.com/@wiqi_lee">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" />
+  </a>
+  &nbsp;
   <a href="https://codepen.io/wiqilee">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/wiqi_lee">
     <img src="https://img.shields.io/badge/Discord-DM%20%40wiqi__lee-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Direct message wiqi_lee on Discord" />
   </a>
   &nbsp;
   <a href="https://discord.com/invite/Hm4YNEwUHq">
-      <img src="https://img.shields.io/badge/Discord-Join%20Server%20(NeuralForge)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NeuralForge Discord server" />
+    <img src="https://img.shields.io/badge/Discord-Join%20Server%20(NeuralForge)-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the NeuralForge Discord server" />
   </a>
 </p>
 
@@ -271,6 +282,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 ---
 
 ## ☕ Support
+
 Found something useful here? **Your support is always appreciated.**
 
 <p align="center">
