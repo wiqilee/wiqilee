@@ -287,7 +287,7 @@ Found something useful here? **Your support is always appreciated.**
 
 <p align="center">
   <a href="https://paypal.me/heytugas">
-    <img src="./assets/support-strip.svg" alt="Support: a coffee is always welcome" width="430" />
+    <img src="./assets/support-strip-wiqi.svg" alt="Support: a coffee is always welcome" width="430" />
   </a>
 </p>
 
