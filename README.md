@@ -19,7 +19,7 @@ I’m **Wiqi Lee**, a passionate developer and researcher dedicated to creating 
 📚 Beyond code, I enjoy reading **scientific journals** and collaborating on **academic research, publishing, and paraphrasing projects**.
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=✨%20Wiqi%20Lee%20✨&width=800&height=120" alt="Glitter Wiqi Lee" />
+  <img src="./assets/terminal-strip.svg" alt="wiqilee@github" width="560" />
 </p>
 
 ---
