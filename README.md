@@ -24,7 +24,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/wiqilee/Vettra"><img src="./assets/card-vettra.svg" alt="Vettra" width="100%" /></a>
+      <a href="https://github.com/wiqilee/Vettra"><img src="./assets/card-vettra-wiqi.svg" alt="Vettra" width="100%" /></a>
       <p align="center">
         <a href="https://vettra-eight.vercel.app/">Demo</a> ·
         <a href="https://youtu.be/cPZGOHpbWiY">Video</a> ·
@@ -33,7 +33,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
       </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/wiqilee/ARIA"><img src="./assets/card-aria.svg" alt="ARIA" width="100%" /></a>
+      <a href="https://github.com/wiqilee/ARIA"><img src="./assets/card-aria-wiqi.svg" alt="ARIA" width="100%" /></a>
       <p align="center">
         <a href="https://aria-polypharmacy.vercel.app">Demo</a> ·
         <a href="https://youtu.be/VTnlH0GXBGk">Video</a> ·
@@ -43,7 +43,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/wiqilee/Arrearly"><img src="./assets/card-arrearly.svg" alt="Arrearly" width="100%" /></a>
+      <a href="https://github.com/wiqilee/Arrearly"><img src="./assets/card-arrearly-wiqi.svg" alt="Arrearly" width="100%" /></a>
       <p align="center">
         <a href="https://arrearly.vercel.app">Demo</a> ·
         <a href="https://youtu.be/AaZi0jxdQ1w">Video</a> ·
@@ -51,7 +51,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
       </p>
     </td>
     <td>
-      <a href="https://github.com/wiqilee/VoxGuard"><img src="./assets/card-voxguard.svg" alt="VoxGuard" width="100%" /></a>
+      <a href="https://github.com/wiqilee/VoxGuard"><img src="./assets/card-voxguard-wiqi.svg" alt="VoxGuard" width="100%" /></a>
       <p align="center">
         <a href="https://voxguard-kappa.vercel.app/">Demo</a> ·
         <a href="https://www.youtube.com/watch?v=ptFNTPv9RUM">Video</a> ·
@@ -61,7 +61,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/wiqilee/reflex"><img src="./assets/card-reflex.svg" alt="Reflex" width="100%" /></a>
+      <a href="https://github.com/wiqilee/reflex"><img src="./assets/card-reflex-wiqi.svg" alt="Reflex" width="100%" /></a>
       <p align="center">
         <a href="https://www.youtube.com/watch?v=uAaxhKVW5-Q">Video</a>
       </p>
@@ -77,7 +77,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/wiqilee/grounds"><img src="./assets/card-grounds.svg" alt="Grounds" width="100%" /></a>
+      <a href="https://github.com/wiqilee/grounds"><img src="./assets/card-grounds-wiqi.svg" alt="Grounds" width="100%" /></a>
       <p align="center">
         <a href="https://grounds-chi.vercel.app/">Demo</a> ·
         <a href="https://www.youtube.com/watch?v=auDm0d9Ea2o">Video</a>
