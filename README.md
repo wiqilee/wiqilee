@@ -3,16 +3,9 @@
   <img src="./assets/ascii-portrait-anime-wiqi3.svg" alt="Wiqi Lee" width="420" />
 </p>
 
-<!-- Typing effect -->
+<!-- Identity banner -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Wiqi+Lee;Developer+%7C+Research+Enthusiast;Open+to+Academic+Collaboration+%F0%9F%A4%9D;Learning+by+Building&t=1"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img src="./assets/rain-wiqi.svg" alt="Wiqi Lee, software engineer, researcher, and data scientist" width="760" />
+  <img src="./assets/rain-wiqi9.svg" alt="Wiqi Lee, software engineer, researcher, and data scientist" width="760" />
 </p>
 
 ## 🚀 About Me
