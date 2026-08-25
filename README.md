@@ -89,7 +89,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 
 <!-- Animated terminal -->
 <p align="center">
-  <img src="./assets/terminal-strip-wiqi.svg" alt="Wiqi Lee: stack, services, and contact details" width="589" />
+  <img src="./assets/terminal-strip-wiqi19.svg" alt="Wiqi Lee: stack, services, and contact details" width="589" />
 </p>
 
 ---
