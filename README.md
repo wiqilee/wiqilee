@@ -67,7 +67,7 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
       </p>
     </td>
     <td>
-      <a href="https://github.com/wiqilee/assumption-miner"><img src="./assets/card-assumption-miner.svg" alt="Assumption Miner" width="100%" /></a>
+      <a href="https://github.com/wiqilee/assumption-miner"><img src="./assets/card-assumption-miner-wiqi.svg" alt="Assumption Miner" width="100%" /></a>
       <p align="center">
         <a href="https://assumption-miner.vercel.app/">Demo</a> ·
         <a href="https://www.youtube.com/watch?v=2nBZo7fWuIs">Video</a> ·
