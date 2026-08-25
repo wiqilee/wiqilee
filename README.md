@@ -11,11 +11,11 @@
   />
 </p>
 
-## 🚀 About Me
-
 <p align="center">
   <img src="./assets/rain-wiqi.svg" alt="Wiqi Lee, software engineer, researcher, and data scientist" width="760" />
 </p>
+
+## 🚀 About Me
 
 I'm **Wiqi Lee**, a **software engineer, researcher, and data scientist** working at the intersection of **AI systems and academic research support** since 2015.
 
