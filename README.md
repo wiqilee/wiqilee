@@ -13,6 +13,10 @@
 
 ## 🚀 About Me
 
+<p align="center">
+  <img src="./assets/rain-wiqi.svg" alt="Wiqi Lee, software engineer, researcher, and data scientist" width="760" />
+</p>
+
 I'm **Wiqi Lee**, a **software engineer, researcher, and data scientist** working at the intersection of **AI systems and academic research support** since 2015.
 
 I build **agentic AI and LLM tooling** for real-world use, while supporting researchers with academic writing, publication workflows, and technical research projects. I'm always open to **meaningful collaboration** on either side.
@@ -88,9 +92,6 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
 </table>
 
 <!-- Animated terminal -->
-<p align="center">
-  <img src="./assets/rain.svg" alt="Wiqi Lee, developer and researcher" width="760" />
-</p>
 <p align="center">
   <img src="./assets/terminal-strip-wiqi19.svg" alt="Wiqi Lee: stack, services, and contact details" width="589" />
 </p>
