@@ -80,7 +80,15 @@ I build **agentic AI and LLM tooling** for real-world use, while supporting rese
         <a href="https://www.youtube.com/watch?v=auDm0d9Ea2o">Video</a>
       </p>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/wiqilee/Moveproof"><img src="./assets/card-moveproof-wiqi.svg" alt="MoveProof" width="100%" /></a>
+      <p align="center">
+        <a href="https://moveproof-wiqi.vercel.app/">Demo</a> ·
+        <a href="https://youtu.be/sTFDnpzNuWM">Video</a> ·
+        <a href="https://medium.com/@wiqi_lee/a-successful-import-is-not-a-correct-one-2135d6c107ec">Article</a> ·
+        <a href="https://devpost.com/software/moveproof">Devpost</a>
+      </p>
+    </td>
   </tr>
 </table>
 
